@@ -60,3 +60,4 @@ https://www.bitsinaction.dev/2019/10/19/Three-daily-git-practices-when-working-o
 
 https://www.bitsinaction.dev/2019/10/27/How-to-compile-a-linux-kernel-for-an-ARM-platform/
 
+surjeet singh
